@@ -3,7 +3,7 @@
 - 👻 I'm a University undergraduate from India
 - 👀 I’m interested in learning and growing alongwith the techonology
 - 🌱 I’m currently learning Python3 and planning to start with JAVA soon
-- 📫 You reach me bu contacting me on my email
+- 📫 You can reach me through my email
 
 <!---
 ronnie8789/ronnie8789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
