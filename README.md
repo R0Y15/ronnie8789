@@ -2,7 +2,7 @@
 - 💞 People call me Roy since that's my lastname
 - 👻 I'm a University undergraduate from India
 - 👀 I’m interested in learning and growing alongwith the techonology
-- 🌱 I’m currently learning Python3 and planning to start with JAVA soon
+- 🌱 I have a basic-to-intermediate knowledge in python and c++
 - 📫 You can reach me through my email
 
 <!---
